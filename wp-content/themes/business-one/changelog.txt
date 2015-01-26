@@ -1,0 +1,19 @@
+== 1.2 ==
+Some improvements
+
+== 1.1 ==
+Fixed: Some minor issues.
+
+
+== 1.0.2 ==
+Changed : Text domain
+Changed : Some function prefix
+Changed : Page Loader
+
+
+
+== 1.0.1 ==
+Some minor issue about CSS
+
+== 1.0 ==
+Initial release.
